@@ -1,0 +1,14 @@
+version: '2.2'
+services:
+  blog:
+    build: nodeserver
+    networks:
+      - default
+    ports:
+      - '3000:3000'
+  nginx:
+    build: nginx
+    networks:
+      - default
+    ports:
+      - '80:80'
