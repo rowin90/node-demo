@@ -1,0 +1,54 @@
+19Y-06-01 16:40:36: err log
+19Y-06-01 16:40:36: Error: node stop
+19Y-06-01 16:40:36:     at Server.http.createServer (/Users/jerome/work/2019/koa2-movie/test/pm2/app.js:12:13)
+19Y-06-01 16:40:36:     at Server.emit (events.js:182:13)
+19Y-06-01 16:40:36:     at parserOnIncoming (_http_server.js:652:12)
+19Y-06-01 16:40:36:     at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17)
+2019-06-01 16:41:06: err log
+2019-06-01 16:41:07: err log
+2019-06-01 16:41:07: err log
+2019-06-01 16:41:08: err log
+2019-06-01 16:41:09: err log
+2019-06-01 16:41:09: err log
+2019-06-01 16:41:18: err log
+2019-06-01 16:41:18: Error: node stop
+2019-06-01 16:41:18:     at Server.http.createServer (/Users/jerome/work/2019/koa2-movie/test/pm2/app.js:12:13)
+2019-06-01 16:41:18:     at Server.emit (events.js:182:13)
+2019-06-01 16:41:18:     at parserOnIncoming (_http_server.js:652:12)
+2019-06-01 16:41:18:     at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17)
+2019-06-01 16:41:18: err log
+2019-06-01 16:41:18: Error: node stop
+2019-06-01 16:41:18:     at Server.http.createServer (/Users/jerome/work/2019/koa2-movie/test/pm2/app.js:12:13)
+2019-06-01 16:41:18:     at Server.emit (events.js:182:13)
+2019-06-01 16:41:18:     at parserOnIncoming (_http_server.js:652:12)
+2019-06-01 16:41:18:     at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17)
+2019-06-01 16:41:20: err log
+2019-06-01 16:41:20: Error: node stop
+2019-06-01 16:41:20:     at Server.http.createServer (/Users/jerome/work/2019/koa2-movie/test/pm2/app.js:12:13)
+2019-06-01 16:41:20:     at Server.emit (events.js:182:13)
+2019-06-01 16:41:20:     at parserOnIncoming (_http_server.js:652:12)
+2019-06-01 16:41:20:     at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17)
+2019-06-01 16:41:25: err log
+2019-06-01 16:41:25: Error: node stop
+2019-06-01 16:41:25:     at Server.http.createServer (/Users/jerome/work/2019/koa2-movie/test/pm2/app.js:12:13)
+2019-06-01 16:41:25:     at Server.emit (events.js:182:13)
+2019-06-01 16:41:25:     at parserOnIncoming (_http_server.js:652:12)
+2019-06-01 16:41:25:     at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17)
+2019-06-01 16:42:19: err log
+2019-06-01 16:42:20: err log
+2019-06-01 16:42:29: err log
+2019-06-01 16:42:29: err log
+2019-06-01 16:43:00: err log
+2019-06-01 16:43:00: err log
+2019-06-01 16:43:12: err log
+2019-06-01 16:43:13: err log
+2019-06-01 16:43:13: err log
+2019-06-01 16:43:13: err log
+2019-06-01 16:43:13: err log
+2019-06-01 16:43:13: err log
+2019-06-01 16:47:31: err log
+2019-06-01 16:47:31: err log
+2019-06-01 16:47:37: err log
+2019-06-01 16:47:37: err log
+2019-06-01 16:47:42: err log
+2019-06-01 16:47:43: err log

@@ -1,0 +1,11 @@
+apps:
+  name: pm2-server # app 名称
+  script: app.js # 启动脚本
+  watch: true # 是否自动刷新
+  ignore_watch:
+    - node_modules
+    - logs
+  instances: 4 # 多进程
+  error_file: logs/err.log, # 错误日志地址
+  out_file: logs/out.log, # 标准输出日志地址
+  log_date_format: YYYY-MM-DD HH:mm:ss # 日志前统一加时间
